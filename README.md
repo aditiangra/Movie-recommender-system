@@ -9,6 +9,8 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 You can refer to the <a href="https://drive.google.com/file/d/1t0v4wclaxUw-3IN4SYRkgMrIPT_hZ2AA/view?usp=sharing">link</a> for overview of  project
 
+# Architecture
+![image](https://github.com/aditiangra/Movie-recommender-system/assets/91600893/8b7e20ae-c59c-4c2f-bd98-465c95a6c086)
 
 
 
