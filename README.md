@@ -10,8 +10,6 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 You can refer to the <a href="https://drive.google.com/file/d/1t0v4wclaxUw-3IN4SYRkgMrIPT_hZ2AA/view?usp=sharing">link</a> for overview of  project
 
 
-# Architecture
-![image](https://github.com/aditiangra/Movie-Recommender-System/assets/91600893/d85343b6-9d0b-417c-87a3-17bce5e8750a)
 
 
 
@@ -26,7 +24,8 @@ It is a numerical value ranges between zero to one which helps to determine how 
 
 Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.
  
-![image](https://github.com/aditiangra/Movie-Recommender-System/assets/91600893/4410567d-5ece-4768-ae91-68faf6b29b05)
+![image](https://github.com/aditiangra/Movie-recommender-system/assets/91600893/55275cd9-9f13-4cde-8a04-cee8f896f9af)
+
 
 # Links
 Dataset:https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
